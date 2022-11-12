@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Ground
+  - Forest
+  - Player
+  - Leaves
+  - Walls
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3375441993
+    locked: 0
+  - name: Forest
+    uniqueID: 3403556515
+    locked: 0
+  - name: Ground
+    uniqueID: 1617278557
+    locked: 0
+  - name: Trees
+    uniqueID: 3886952561
+    locked: 0
+  - name: Leaves
+    uniqueID: 2605636017
+    locked: 0
+  - name: Player
+    uniqueID: 1403666239
+    locked: 0

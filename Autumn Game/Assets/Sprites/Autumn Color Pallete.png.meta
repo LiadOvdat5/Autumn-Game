@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: bd0dda9e9dda8a24880237891e57b15f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8618531031783821774
+    second: Autumn Color Pallete_0
+  - first:
+      213: 1761494707556755361
+    second: Autumn Color Pallete_1
+  - first:
+      213: 1284759111162666483
+    second: Autumn Color Pallete_2
+  - first:
+      213: -860651305508634771
+    second: Autumn Color Pallete_3
+  - first:
+      213: -1855681267156205636
+    second: Autumn Color Pallete_4
+  - first:
+      213: 8579847850932956229
+    second: Autumn Color Pallete_5
+  - first:
+      213: 5143860859742740155
+    second: Autumn Color Pallete_6
+  - first:
+      213: -6933833169224156495
+    second: Autumn Color Pallete_7
+  - first:
+      213: -2222576827327273111
+    second: Autumn Color Pallete_8
+  - first:
+      213: -8997864647202614822
+    second: Autumn Color Pallete_9
+  - first:
+      213: -7592275321272783954
+    second: Autumn Color Pallete_10
+  - first:
+      213: 7649707578425174631
+    second: Autumn Color Pallete_11
+  - first:
+      213: 4619548617338491102
+    second: Autumn Color Pallete_12
+  - first:
+      213: -604912054779859533
+    second: Autumn Color Pallete_13
+  - first:
+      213: -1415125033456050545
+    second: Autumn Color Pallete_14
+  - first:
+      213: -3922472698149780366
+    second: Autumn Color Pallete_15
+  - first:
+      213: 2871739342040398661
+    second: Autumn Color Pallete_16
+  - first:
+      213: -3115807596786238897
+    second: Autumn Color Pallete_17
+  - first:
+      213: -5039841380321059650
+    second: Autumn Color Pallete_18
+  - first:
+      213: 6473256486888472425
+    second: Autumn Color Pallete_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Autumn Color Pallete_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238.5
+        width: 96.6
+        height: 79.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1d72b7f4c2b9770800000000000000
+      internalID: 8618531031783821774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn Color Pallete_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 238.5
+        width: 96.6
+        height: 79.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7a6ad8a16127810800000000000000
+      internalID: 1761494707556755361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn Color Pallete_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 238.5
+        width: 96.6
+        height: 79.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd1ccaca9164d110800000000000000
+      internalID: 1284759111162666483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn Color Pallete_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 238.5
+        width: 96.6
+        height: 79.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f7ea3923a5e04f0800000000000000
+      internalID: -860651305508634771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn Color Pallete_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 238.5
+        width: 96.6
+        height: 79.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfbec628bb4f36e0800000000000000
+      internalID: -1855681267156205636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn Color Pallete_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159.5
+        width: 96.6
+        height: 79.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ce1c5992eb11770800000000000000
+      internalID: 8579847850932956229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn Color Pallete_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 159.5
+        width: 96.6
+        height: 79.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe5007d23aa26740800000000000000
+      internalID: 5143860859742740155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn Color Pallete_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 159.5
+        width: 96.6
+        height: 79.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bab298387316cf90800000000000000
+      internalID: -6933833169224156495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn Color Pallete_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 159.5
+        width: 96.6
+        height: 79.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967a429b622d721e0800000000000000
+      internalID: -2222576827327273111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn Color Pallete_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 159.5
+        width: 96.6
+        height: 79.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1517ea6c9212380800000000000000
+      internalID: -8997864647202614822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn Color Pallete_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80.5
+        width: 96.6
+        height: 79.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab229622d1d2a690800000000000000
+      internalID: -7592275321272783954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn Color Pallete_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80.5
+        width: 96.6
+        height: 79.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a65af3388392a60800000000000000
+      internalID: 7649707578425174631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn Color Pallete_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80.5
+        width: 96.6
+        height: 79.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed09b17fdfeeb1040800000000000000
+      internalID: 4619548617338491102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn Color Pallete_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80.5
+        width: 96.6
+        height: 79.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdae7ee0bbea97f0800000000000000
+      internalID: -604912054779859533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn Color Pallete_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 80.5
+        width: 96.6
+        height: 79.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ed61c97477c5ce0800000000000000
+      internalID: -1415125033456050545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn Color Pallete_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 96.6
+        height: 79.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2744d99fcd39099c0800000000000000
+      internalID: -3922472698149780366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn Color Pallete_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1.5
+        width: 96.6
+        height: 79.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bf4d967b77ad720800000000000000
+      internalID: 2871739342040398661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn Color Pallete_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1.5
+        width: 96.6
+        height: 79.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ab71dbf7d62c4d0800000000000000
+      internalID: -3115807596786238897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn Color Pallete_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1.5
+        width: 96.6
+        height: 79.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc16a187f2ee0ab0800000000000000
+      internalID: -5039841380321059650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn Color Pallete_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1.5
+        width: 96.6
+        height: 79.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ffaf06a70a5d950800000000000000
+      internalID: 6473256486888472425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
